@@ -97,14 +97,15 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>mithun-technologies-release-repository</name>
-	      <url>http://13.127.134.241:8081/repository/mithun-technologies-release-repository/</url>
+	      <name>release-repository</name>
+	      <url>http://13.127.134.241:8081/repository/mithun-technologies-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>mithun-technologies-snapshot-repositories </name>
-	      <url>http://13.127.134.241:8081/repository/mithun-technologies-snapshot-repositories/</url>
+	      <name>snapshot-repositories </name>
+	      <url>http://13.127.134.241:8081/repository/mithun-technologies-Snapshot/
+</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
