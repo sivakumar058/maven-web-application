@@ -92,20 +92,18 @@
 		</dependency>
 		
 	</dependencies>
-	
 	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
 	      <name>release-repository</name>
-	      <url>http://13.127.134.241:8081/repository/mithun-technologies-Release/</url>
+	      <url>http://13.127.173.99:8081/repository/mithun-technologies-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>snapshot-repositories </name>
-	      <url>http://13.127.134.241:8081/repository/mithun-technologies-Snapshot/
-</url>
+	      <url>http://13.127.173.99:8081/repository/mithun-technologies-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
