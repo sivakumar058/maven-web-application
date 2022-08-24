@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>release-repository</name>
-	      <url>http://13.127.173.99:8081/repository/mithun-technologies-Release/</url>
+	      <url>http://ec2-13-233-83-73.ap-south-1.compute.amazonaws.com:8081/repository/mithun-technologies-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>snapshot-repositories </name>
-	      <url>http://13.127.173.99:8081/repository/mithun-technologies-Snapshot/</url>
+	      <url>http://ec2-13-233-83-73.ap-south-1.compute.amazonaws.com:8081/repository/mithun-technologies-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
